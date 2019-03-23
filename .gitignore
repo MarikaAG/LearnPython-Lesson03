@@ -1,1 +1,4 @@
 referat.txt
+*.log
+hidden_data.py
+env/
