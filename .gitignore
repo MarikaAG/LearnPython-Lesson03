@@ -1,4 +1,6 @@
 referat.txt
 *.log
 hidden_data.py
+*.csv
+people.csv
 env/
